@@ -1,0 +1,21 @@
+As a Customer
+
+I want Cancel the CAB Booking
+
+So I can Cancel the CAB Booking Successfully
+
+Scope
+
+customer should be logout successfully
+
+customer should able to Cancel the CAB
+
+Pre-Condition
+
+customer should have there own gmail and mobile number for cancel the CAB
+
+Accepttance Criteria
+
+Scenario-1:
+
+user should Cancel the CAB successfully
