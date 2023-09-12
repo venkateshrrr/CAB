@@ -1,0 +1,27 @@
+As a Customer 
+
+I want Book the CAB
+
+So I  can Book CAB Successfully
+
+Scope
+
+customer should be login successfully
+
+customer should able to change the CAB
+
+Pre-Condition
+
+customer should have there own gmail and mobile number 
+
+Accepttance Criteria
+
+Scenario-1: 
+
+user should book the CAB successfully
+
+Book the CAB near there locality
+
+Scenario-2: 
+
+user should book the CAB unsuccessfully
